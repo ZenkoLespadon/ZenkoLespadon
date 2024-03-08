@@ -79,4 +79,4 @@ Description : Mise en place d'un réseau complexe pour une entreprise en utilisa
 
 
 
-Merci de votre visite !
+Merci pour votre visite !
