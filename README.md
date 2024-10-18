@@ -1,6 +1,6 @@
 # Portfolio
 
-Je m’appelle William Lefebvre et j’ai commencé mon parcours au lycée Claude Nougaro à Monteils dans le Tarn-Et-Garonne où j’ai pris les spécialités Mathématiques et Numérique et Sciences de l’Informatique. Je suis actuellement en deuxième année de BUT Informatique à l’IUT du Limousin.
+Je m’appelle William Lefebvre et j’ai commencé mon parcours au lycée Claude Nougaro à Monteils dans le Tarn-Et-Garonne où j’ai pris les spécialités Mathématiques et Numérique et Sciences de l’Informatique. Je suis actuellement en troisième année de BUT Informatique à l’IUT du Limousin.
 
 ## Hard Skills
 
