@@ -81,6 +81,7 @@ Description : Développement d'un chatbot RAG pour La Poste, entièrement foncti
 
 - Finance 💵
 
+# Contact
+mail: lefebvre.william82@gmail.com
 
 
-Merci pour votre visite !
