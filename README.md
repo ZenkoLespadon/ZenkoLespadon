@@ -2,6 +2,9 @@
 
 Je m’appelle William Lefebvre et j’ai commencé mon parcours au lycée Claude Nougaro à Monteils dans le Tarn-Et-Garonne où j’ai pris les spécialités Mathématiques et Numérique et Sciences de l’Informatique. Je suis actuellement en troisième année de BUT Informatique à l’IUT du Limousin.
 
+# Contact
+mail: lefebvre.william82@gmail.com
+
 ## Hard Skills
 
 - Développement d'applications : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -80,8 +83,5 @@ Description : Développement d'un chatbot RAG pour La Poste, entièrement foncti
 - Japon 🔴
 
 - Finance 💵
-
-# Contact
-mail: lefebvre.william82@gmail.com
 
 
