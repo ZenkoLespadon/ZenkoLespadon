@@ -1,87 +1,76 @@
 # Portfolio
 
-Je m’appelle William Lefebvre et j’ai commencé mon parcours au lycée Claude Nougaro à Monteils dans le Tarn-Et-Garonne où j’ai pris les spécialités Mathématiques et Numérique et Sciences de l’Informatique. Je suis actuellement en troisième année de BUT Informatique à l’IUT du Limousin.
+I am William Lefebvre, a French developer with a strong foundation in Computer Science. I completed my Bachelor's degree in Computer Science in 2025 at the IUT du Limousin in France, where I developed both solid technical skills and a rigorous problem-solving mindset.  
+
+Curious by nature, I enjoy understanding how systems work and exploring new technologies in depth. I approach challenges with persistence and discipline, ensuring that I always reach the expected result regardless of complexity. I am also highly autonomous, capable of managing projects end-to-end while maintaining structure, clarity, and consistency in my work.  
+
+My background combines software development, artificial intelligence, networking, and project management, allowing me to adapt quickly to different environments and technical domains. I continuously strive to improve, learn, and apply my skills in meaningful and impactful projects.
+
 
 # Contact
 mail: lefebvre.william82@gmail.com
 
 ## Hard Skills
 
-- Développement d'applications : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-- Intelligence Artificielle : ![HuggingFace Transformers](https://i.imgur.com/UZQ1PSb.png)
-- Développement de jeux vidéos : ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-- Développement web : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- Développement mobile : ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-- Base de données : ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-- Réseau et mise en production : ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-- Travail collaboratif : ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-- Chaine d'intégration continue : ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+- Application Development: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+- Artificial Intelligence: ![HuggingFace Transformers](https://i.imgur.com/UZQ1PSb.png)
+- Video Game Development: ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+- Web Development: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- Mobile Development: ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+- Databases: ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- Networking & Deployment: ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- Collaborative Work: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+- Continuous Integration Pipeline: ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## Soft Skills
+## University Projects
 
-- Curieux
+During my academic journey, I completed several SAE projects (Learning and Assessment Situations). These projects allow students to apply skills and knowledge acquired throughout their studies. SAEs may be completed individually or in groups and cover a wide range of computer science–related fields.
 
-- Persévérant
+### SAE 1.01  
+Description: Development of a series of interactive Python mini-games for two players, including a guessing game, a matchstick game, and Tic-Tac-Toe.
 
-- Autonome
+### SAE 1.02  
+Description: Extension of SAE 1.01 with AI-controlled bots of various difficulty levels for the three mini-games.
 
+### SAE 1.03  
+Description: Setup of a Debian 11 virtual machine, installation of Visual Studio Code, and development of a Bash script to automate user account creation.
 
-## Projets Universitaires
+### SAE 1.04  
+Description: Design and implementation of a database. I analyzed a CSV dataset, designed an appropriate data model, imported data, and performed SQL queries to produce graphical analysis.
 
-Au cours de mon parcours universitaire, j'ai réalisé des SAE (Situations d'Apprentissage et d'Évaluation). Ce sont des projets pédagogiques permettant aux étudiants de mettre en pratique les connaissances et les compétences acquises au cours de leur formation. Les SAE sont réalisées soit individuellement, soit en groupe et couvrent une grande variété de domaine plus ou moins lié à l'informatique.  
+### SAE 1.05  
+Description: Requirements gathering for the construction of the Limoges Family Village (2009–2010).
 
-### SAE 1.01
-Description : Développement d'une série de mini-jeux interactifs en Python conçus pour être joués par deux joueurs. Les mini-jeux développés sont le jeu de la devinette, le jeu de l'allumette et le morpion.
+### SAE 1.06  
+Description: Exploration of a digital profession (DevOps for our group), including research and an interview with a professional for deeper insights.
 
-### SAE 1.02
-Description : Extension de la SAE 1.01, cette fois-ci, j'ai développé des bots de différentes difficultés dans les 3 mini-jeux développés.
+### SAE 2.01 – 2.02  
+Description: Development of the board game “Le Verger” in Java, including a JavaFX graphical interface.
 
-### SAE 1.03
-Description : Mise en place d'une machine virtuelle Debian 11, installation de Visual Studio Code, et programmation d'un script Bash permettant l'automatisation de la création de comptes utilisateurs.
+### SAE 2.03  
+Description: Deployment of a company network using the Kathara virtualization platform.
 
-### SAE 1.04
-Description : Conception et mise en place d'une base de données. J'ai dû analyser un fichier CSV contenant des données et concevoir un modèle de base de données adapté afin d'importer les données. Enfin, j'ai dû réaliser des requêtes afin de produire une analyse graphique.
+### SAE 2.04  
+Description: Design of a complex database model, creation of advanced SQL queries, and graphical data analysis with Metabase.
 
-### SAE 1.05
-Description : Réalisation du recueil des besoins de la construction du Family Village de Limoges en 2009-2010
+### SAE 2.05  
+Description: Organization of a fictional event bringing together 200 associations and thousands of visitors.
 
-### SAE 1.06
-Description : Découverte d'un métier du numérique (pour notre groupe, c'était le métier de DevOps) avec un travail de recherche, et grâce à une interview d'un professionnel afin d'avoir une vision plus concrète et plus approfondie du métier.
+### SAE 2.06  
+Description: Organization of the “Graine de talent” event, bringing together students from Limoges to perform in front of an audience. My group was responsible for finding students with musical talents.
 
-### SAE 2.01 - 2.02
-Description : Développement du jeu de société le Verger en Java tout en développement une interface graphique en JavaFX.
+### SAE 3.01 – 4.01  
+Description: Design and development of an Escape Game based on the history of computing using Godot Engine.
 
-### SAE 2.03
-Description : Mise en place d'un réseau pour une entreprise en utilisant la plateforme de virtualisation réseau Kathara.
+### SAE 3.02 – 4.02  
+Description: Implementation of a complex company network using Kathara and securing the infrastructure using iptables.
 
-### SAE 2.04
-Description : Conception d'un modèle de base de données complexe, réalisation de requêtes SQL complexes, et production d'une analyse graphique via le logiciel de visualisation de données Metabase.
-
-### SAE 2.05
-Description : Organisation d'un projet fictif de forum des associations réunissant 200 associations et des milliers de visiteurs.
-
-### SAE 2.06
-Description : Organisation de l'évènement "graine de talent" qui a réuni des étudiants limougeauds afin de performer devant un public. Pour notre groupe, nous devions
-trouver des étudiants avec un talent musical.
-
-### SAE 3.01 - 4.01
-Description : Conception et programmation d'un Escape Game sur le thème de l'histoire de l'informatique avec Godot Engine. 
-
-### SAE 3.02 - 4.02
-Description : Mise en place d'un réseau complexe pour une entreprise en utilisant la plateforme de virtualisation réseau Kathara, et sécurisation du réseau de l'entreprise grâce à des iptables.
-
-### SAE 4.01
-Description : Développement d'un chatbot RAG pour La Poste, entièrement fonctionnel hors ligne. Le projet inclut le déploiement de l'application, la conception de l'interface web avec React et Node.js, ainsi que l'intégration du RAG à l'aide de LangChain, Transformers et ChromaDB.
-
+### SAE 5.01  - 6.01
+Description: Development of an offline RAG chatbot for La Poste. The project included full deployment, web interface development with React and Node.js, and integration of RAG using LangChain, Transformers, and ChromaDB.
 
 # Passions
 
-- Jeux-Vidéos 🎮
-
-- Technologie ⚙️
-
-- Japon 🔴
-
+- Video Games 🎮  
+- Technology ⚙️  
+- Japan 🔴  
 - Finance 💵
-
-
