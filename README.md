@@ -8,7 +8,7 @@ My background combines software development, artificial intelligence, networking
 
 
 # Contact
-mail: lefebvre.william82@gmail.com
+Email: lefebvre.william82@gmail.com
 
 ## Hard Skills
 
