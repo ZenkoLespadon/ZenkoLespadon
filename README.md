@@ -72,7 +72,7 @@ Repository : [Kathara infrastructure](https://github.com/Anosy00/SAER3.01B)
 ### SAE 5.01  - 6.01
 Description: Development of an offline RAG chatbot for La Poste. The project included full deployment, web interface development with React and Node.js, and integration of RAG using LangChain, Transformers, and ChromaDB.
 
-Repository : [RAGAdmin]([https://github.com/Anosy00/SAER3.01B](https://github.com/ZenkoLespadon/RAGAdmin-Kamoulox)
+Repository : [RAGAdmin](https://github.com/ZenkoLespadon/RAGAdmin-Kamoulox)
 
 # Passions
 
