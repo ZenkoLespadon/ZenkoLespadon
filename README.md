@@ -24,7 +24,7 @@ Email: lefebvre.william82@gmail.com
 
 ## University Projects
 
-During my academic journey, I completed several SAE projects (Learning and Assessment Situations). These projects allow students to apply skills and knowledge acquired throughout their studies. SAEs may be completed individually or in groups and cover a wide range of computer science–related fields.
+During my academic journey, I completed several SAE projects (Situation d'Apprentissage et d'Évaluation - Learning and Assessment Situations). These projects allow students to apply skills and knowledge acquired throughout their studies. SAEs may be completed individually or in groups and cover a wide range of computer science–related fields.
 
 ### SAE 1.01  
 Description: Development of a series of interactive Python mini-games for two players, including a guessing game, a matchstick game, and Tic-Tac-Toe.
@@ -60,13 +60,19 @@ Description: Organization of a fictional event bringing together 200 association
 Description: Organization of the “Graine de talent” event, bringing together students from Limoges to perform in front of an audience. My group was responsible for finding students with musical talents.
 
 ### SAE 3.01 – 4.01  
-Description: Design and development of an Escape Game based on the history of computing using Godot Engine.
+Description: Design and development of an Escape Game based on the history of computing using Godot Engine and C#.  
+
+Repository: [TemporalIT – Escape Game Project](https://github.com/Anosy00/TemporalIT)
 
 ### SAE 3.02 – 4.02  
 Description: Implementation of a complex company network using Kathara and securing the infrastructure using iptables.
 
+Repository : [Kathara infrastructure](https://github.com/Anosy00/SAER3.01B)
+
 ### SAE 5.01  - 6.01
 Description: Development of an offline RAG chatbot for La Poste. The project included full deployment, web interface development with React and Node.js, and integration of RAG using LangChain, Transformers, and ChromaDB.
+
+Repository : [RAGAdmin]([https://github.com/Anosy00/SAER3.01B](https://github.com/ZenkoLespadon/RAGAdmin-Kamoulox)
 
 # Passions
 
