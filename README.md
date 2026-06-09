@@ -2,7 +2,7 @@
 
 I am William Lefebvre, a French developer with a Bachelor's degree in Computer Science from the IUT du Limousin, completed in 2025.
 
-My background covers software development, artificial intelligence, networking, databases, deployment, and project management. I am interested in building practical systems, understanding how they work internally, and improving them through structured problem solving.
+My background covers software development, artificial intelligence, web development, databases, deployment, and project management, through academic projects, internships, and personal projects. I am interested in building practical systems, understanding how they work internally, and improving them through structured problem solving.
 
 # Contact
 Email: lefebvre.william82@gmail.com
