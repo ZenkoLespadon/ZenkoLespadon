@@ -78,7 +78,7 @@ Description: Design and development of a custom Minecraft territorial warfare pl
 
 Technologies: Java, Linux
 
-Repository: [Minecraft Plugin](https://github.com/ZenkoLespadon/Saber-Kingdoms)
+Repository: [Saber-Kingdoms](https://github.com/ZenkoLespadon/Saber-Kingdoms)
 
 
 # Interests
