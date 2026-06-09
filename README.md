@@ -25,7 +25,7 @@ Description: Development of a multi-agent urban traffic simulation in Python, us
 
 Technologies: Python, Mesa, Streamlit, NetworkX, OpenStreetMap
 
-Repository: [Agent-based modeling project](https://github.com/ZenkoLespadon/Multi-Agent-Traffic-Sim)
+Repository: [Multi-Agent Traffic Simulation](https://github.com/ZenkoLespadon/Multi-Agent-Traffic-Sim)
 
 ### MDSL — Software Programmer Intern (2023–2025)
 
