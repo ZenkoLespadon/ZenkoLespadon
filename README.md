@@ -18,6 +18,21 @@ Email: lefebvre.william82@gmail.com
 - DevOps & Deployment: ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 - Version Control & Collaboration: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+## Professional Experience
+
+### University of Craiova — Software Programmer Intern (2025)
+Description: Development of a multi-agent urban traffic simulation in Python, using Mesa and Streamlit, with OSM-based road graphs, car and pedestrian agents, traffic rules, collision tracking, and interactive visualization.
+
+Technologies: Python, Mesa, Streamlit, NetworkX, OpenStreetMap
+
+Repository: [Agent-based modeling project](https://github.com/ZenkoLespadon/Multi-Agent-Traffic-Sim)
+
+### MDSL — Software Programmer Intern (2023–2025)
+
+Description: Participation in the development of a SaaS platform for healthcare practitioners in the non-contracted sector, using PHP, JavaScript, HTML/CSS, and MySQL.
+
+Technologies: PHP, JavaScript, HTML, CSS, MySQL
+
 ## University Projects
 
 During my academic journey, I completed several SAE projects (Situation d'Apprentissage et d'Évaluation - Learning and Assessment Situations). These projects allowed me to apply technical skills through practical academic projects, individually or in groups, across software development, databases, networking, artificial intelligence, and deployment.
@@ -54,6 +69,17 @@ Description: Configuration of a Debian 11 virtual machine with Visual Studio Cod
 
 ### SAE 1.04 — Database Design and SQL Analysis with Microsoft SQL Server (2022)
 Description: Design and implementation of a Microsoft SQL Server database from a CSV dataset, including data modeling, data import, SQL queries, and graphical analysis.
+
+## Personal Projects
+
+### Minecraft Territorial Warfare Plugin
+
+Description: Design and development of a custom Minecraft territorial warfare plugin in Java, including gameplay logic, server-side features, testing, and performance optimization. The project also involved deployment and maintenance of a Linux-based game server infrastructure.
+
+Technologies: Java, Linux
+
+Repository: [Minecraft Plugin](https://github.com/ZenkoLespadon/Saber-Kingdoms)
+
 
 # Interests
 
