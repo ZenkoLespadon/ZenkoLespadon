@@ -27,7 +27,7 @@ Technologies: Python, Mesa, Streamlit, NetworkX, OpenStreetMap
 
 Repository: [Multi-Agent Traffic Simulation](https://github.com/ZenkoLespadon/Multi-Agent-Traffic-Sim)
 
-### MDSL — Software Programmer Intern (2023–2025)
+### MDSL — Software Programmer Intern (2024)
 
 Description: Participation in the development of a SaaS platform for healthcare practitioners in the non-contracted sector, using PHP, JavaScript, HTML/CSS, and MySQL.
 
