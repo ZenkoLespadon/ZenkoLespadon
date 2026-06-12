@@ -72,6 +72,13 @@ Description: Design and implementation of a Microsoft SQL Server database from a
 
 ## Personal Projects
 
+### TradingApp — Crypto Market Data Terminal
+Description: Development of a Python web terminal for monitoring crypto market data, with Binance API ingestion, time-series processing, Open Interest heatmaps, interactive Canvas charting, and Discord price alerts.
+
+Technologies: Python, Pandas, NumPy, JavaScript, HTML Canvas, CSS, Binance APIs, discord.py
+
+Repository: [TradingApp](https://github.com/ZenkoLespadon/trading-app-portfolio)
+
 ### Minecraft Territorial Warfare Plugin
 
 Description: Design and development of a custom Minecraft territorial warfare plugin in Java, including gameplay logic, server-side features, testing, and performance optimization. The project also involved deployment and maintenance of a Linux-based game server infrastructure.
