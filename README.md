@@ -34,43 +34,6 @@ Description: Participation in the development of a SaaS platform for healthcare 
 
 Technologies: PHP, JavaScript, HTML, CSS, MySQL
 
-## University Projects
-
-During my academic journey, I completed several SAE projects (Situation d'Apprentissage et d'Évaluation - Learning and Assessment Situations). These projects allowed me to apply technical skills through practical academic projects, individually or in groups, across software development, databases, networking, artificial intelligence, and deployment.
-
-### SAE 5.01 – 6.01 — Offline RAG Chatbot for La Poste (2024–2025)
-Description: Development of an offline RAG chatbot with LangChain, Transformers, ChromaDB, and Ollama, integrated into a React/Node.js web interface and deployed automatically on Ubuntu Server using Jenkins.
-
-Repository: [RAGAdmin](https://github.com/ZenkoLespadon/RAGAdmin-Kamoulox)
-
-### SAE 3.01 – 4.01 — TemporalIT Escape Game (2023–2024)
-Description: Design and development of an escape game based on the history of computing using Godot Engine and C#.
-
-Repository: [TemporalIT](https://github.com/Anosy00/TemporalIT)
-
-### SAE 3.02 – 4.02 — Secure Company Network Infrastructure (2023–2024)
-Description: Implementation of a complex company network using Kathara, with infrastructure security configured through iptables.
-
-Repository: [Kathara infrastructure](https://github.com/Anosy00/SAER3.01B)
-
-### SAE 2.01 – 2.02 — JavaFX Board Game (2023)
-Description: Development of the board game “Le Verger” in Java, including game logic and a JavaFX graphical interface.
-
-### SAE 2.03 — Company Network Deployment (2023)
-Description: Deployment of a company network using the Kathara virtualization platform.
-
-### SAE 2.04 — Advanced Database Design and Analysis with PostgreSQL (2023)
-Description: Design of a complex PostgreSQL database model, creation of advanced SQL queries, and graphical data analysis with Metabase.
-
-### SAE 1.01 – 1.02 — Python Mini-Games with Rule-Based AI Opponents (2022)
-Description: Development of multiple Python mini-games, such as a guessing game, a matchstick game, and Tic-Tac-Toe. The project covered game logic, player interaction, and rule-based AI opponents with different difficulty levels.
-
-### SAE 1.03 — Debian Virtual Machine and Bash Automation (2022)
-Description: Configuration of a Debian 11 virtual machine with Visual Studio Code and development of a Bash script to automate user account creation.
-
-### SAE 1.04 — Database Design and SQL Analysis with Microsoft SQL Server (2022)
-Description: Design and implementation of a Microsoft SQL Server database from a CSV dataset, including data modeling, data import, SQL queries, and graphical analysis.
-
 ## Personal Projects
 
 ### Kafka Real-Time Delivery Operations Platform
@@ -96,6 +59,24 @@ Technologies: Java, Linux
 
 Repository: [Saber-Kingdoms](https://github.com/ZenkoLespadon/Saber-Kingdoms)
 
+## University Projects
+
+During my academic journey, I completed several SAE projects (Situation d'Apprentissage et d'Évaluation - Learning and Assessment Situations). These projects allowed me to apply technical skills through practical academic projects, individually or in groups, across software development, databases, networking, artificial intelligence, and deployment.
+
+### SAE 5.01 – 6.01 — Offline RAG Chatbot for La Poste (2024–2025)
+Description: Development of an offline RAG chatbot with LangChain, Transformers, ChromaDB, and Ollama, integrated into a React/Node.js web interface and deployed automatically on Ubuntu Server using Jenkins.
+
+Repository: [RAGAdmin](https://github.com/ZenkoLespadon/RAGAdmin-Kamoulox)
+
+### SAE 3.01 – 4.01 — TemporalIT Escape Game (2023–2024)
+Description: Design and development of an escape game based on the history of computing using Godot Engine and C#.
+
+Repository: [TemporalIT](https://github.com/Anosy00/TemporalIT)
+
+### SAE 3.02 – 4.02 — Secure Company Network Infrastructure (2023–2024)
+Description: Implementation of a complex company network using Kathara, with infrastructure security configured through iptables.
+
+Repository: [Kathara infrastructure](https://github.com/Anosy00/SAER3.01B)
 
 # Interests
 
