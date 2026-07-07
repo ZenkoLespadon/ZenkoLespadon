@@ -51,7 +51,7 @@ Technologies: Python, Pandas, NumPy, JavaScript, HTML Canvas, CSS, Binance APIs,
 
 Repository: [TradingApp](https://github.com/ZenkoLespadon/trading-app-portfolio)
 
-### Minecraft Territorial Warfare Plugin
+### KingdomsPVP
 
 Description: Design and development of a custom Minecraft territorial warfare plugin in Java, including gameplay logic, server-side features, testing, and performance optimization. The project also involved deployment and maintenance of a Linux-based game server infrastructure.
 
