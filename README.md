@@ -44,12 +44,13 @@ Technologies: Java 21, Spring Boot, Kafka, Kafka Streams, Redis, PostgreSQL/Post
 
 Repository: [Kafka Real-Time Delivery Operations Platform](https://github.com/ZenkoLespadon/kafka-delivery-operations-platform)
 
-### TradingApp — Crypto Market Data Terminal
-Description: Development of a Python web terminal for monitoring crypto market data, with Binance API ingestion, time-series processing, Open Interest heatmaps, interactive Canvas charting, and Discord price alerts.
+### TradingApp — Market Data & Trading Execution Platform
 
-Technologies: Python, Pandas, NumPy, JavaScript, HTML Canvas, CSS, Binance APIs, discord.py
+Description: Development of a Python application for real-time financial market data processing and trading strategy execution. The project focuses on software reliability, data consistency, failure handling, and automated validation, with persistent storage in PostgreSQL and integration with external market services.
 
-Repository: [TradingApp](https://github.com/ZenkoLespadon/trading-app-portfolio)
+The application includes unit and integration testing with Pytest and Testcontainers, covering database operations, concurrent access, degraded external services, and recovery scenarios. A GitHub Actions CI pipeline automates tests and software quality checks to reduce regressions.
+
+Technologies: Python, PostgreSQL, Pytest, Testcontainers, GitHub Actions, Pandas, NumPy, external market APIs
 
 ### KingdomsPVP
 
