@@ -28,8 +28,6 @@ Implemented vehicle and pedestrian agents with different driving behaviors, traf
 
 Technologies: Python, Mesa, NetworkX, OpenStreetMap, Streamlit, NumPy, Matplotlib
 
-Technologies: Python, Mesa, Streamlit, NetworkX, OpenStreetMap
-
 Repository: [Multi-Agent Traffic Simulation](https://github.com/ZenkoLespadon/Multi-Agent-Traffic-Sim)
 
 ### MDSL — Software Programmer Intern (2024)
@@ -40,9 +38,7 @@ Description: Maintenance and enhancement of an existing SaaS platform for health
 
 Contributed to the development and improvement of application features, API endpoints, forms, and database interactions, including SQL query optimization. Worked with Git and participated in code reviews to maintain code quality and integrate changes into the existing application.
 
-**Technologies:** PHP, MySQL, JavaScript, HTML, CSS, Git
-
-Technologies: PHP, JavaScript, HTML, CSS, MySQL
+Technologies: PHP, MySQL, JavaScript, HTML, CSS
 
 ## Personal Projects
 
