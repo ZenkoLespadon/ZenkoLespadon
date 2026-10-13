@@ -30,7 +30,13 @@ Repository: [Multi-Agent Traffic Simulation](https://github.com/ZenkoLespadon/Mu
 
 ### MDSL — Software Programmer Intern (2024)
 
-Description: Participation in the development of a SaaS platform for healthcare practitioners in the non-contracted sector, using PHP, JavaScript, HTML/CSS, and MySQL.
+Description: ### MDSL — Software Developer Intern (2024)
+
+**Description:** Maintenance and enhancement of an existing SaaS platform for healthcare practitioners, primarily focused on backend development (PHP, MySQL), with additional frontend contributions using JavaScript, HTML, and CSS.
+
+Contributed to the development and improvement of application features, API endpoints, forms, and database interactions, including SQL query optimization. Worked with Git and participated in code reviews to maintain code quality and integrate changes into the existing application.
+
+**Technologies:** PHP, MySQL, JavaScript, HTML, CSS, Git
 
 Technologies: PHP, JavaScript, HTML, CSS, MySQL
 
