@@ -22,7 +22,11 @@ Email: lefebvre.william82@gmail.com
 ## Professional Experience
 
 ### University of Craiova — Software Programmer Intern (2025)
-Description: Development of a multi-agent urban traffic simulation in Python, using Mesa and Streamlit, with OSM-based road graphs, car and pedestrian agents, traffic rules, collision tracking, and interactive visualization.
+Description: Independently designed and developed a multi-agent urban traffic simulation in Python using Mesa, NetworkX, and real-world OpenStreetMap road networks.
+
+Implemented vehicle and pedestrian agents with different driving behaviors, traffic rules, collision detection, and simulation statistics. Built an interactive Streamlit interface to visualize traffic conditions, monitor agent movements, and control simulation execution.
+
+Technologies: Python, Mesa, NetworkX, OpenStreetMap, Streamlit, NumPy, Matplotlib
 
 Technologies: Python, Mesa, Streamlit, NetworkX, OpenStreetMap
 
@@ -32,7 +36,7 @@ Repository: [Multi-Agent Traffic Simulation](https://github.com/ZenkoLespadon/Mu
 
 Description: ### MDSL — Software Developer Intern (2024)
 
-**Description:** Maintenance and enhancement of an existing SaaS platform for healthcare practitioners, primarily focused on backend development (PHP, MySQL), with additional frontend contributions using JavaScript, HTML, and CSS.
+Description: Maintenance and enhancement of an existing SaaS platform for healthcare practitioners, primarily focused on backend development (PHP, MySQL), with additional frontend contributions using JavaScript, HTML, and CSS.
 
 Contributed to the development and improvement of application features, API endpoints, forms, and database interactions, including SQL query optimization. Worked with Git and participated in code reviews to maintain code quality and integrate changes into the existing application.
 
