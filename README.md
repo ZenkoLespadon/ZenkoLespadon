@@ -22,7 +22,7 @@ Email: lefebvre.william82@gmail.com
 ## Professional Experience
 
 ### University of Craiova — Software Programmer Intern (2025)
-Description: Independently designed and developed a multi-agent urban traffic simulation in Python using Mesa, NetworkX, and real-world OpenStreetMap road networks.
+Description: Designed and developed a multi-agent urban traffic simulation in Python using Mesa, NetworkX, and real-world OpenStreetMap road networks.
 
 Implemented vehicle and pedestrian agents with different driving behaviors, traffic rules, collision detection, and simulation statistics. Built an interactive Streamlit interface to visualize traffic conditions, monitor agent movements, and control simulation execution.
 
