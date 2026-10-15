@@ -34,9 +34,9 @@ Repository: [Multi-Agent Traffic Simulation](https://github.com/ZenkoLespadon/Mu
 
 Description: MDSL — Software Developer Intern (2024)
 
-Description: Maintenance and enhancement of an existing SaaS platform for healthcare practitioners, primarily focused on backend development (PHP, MySQL), with additional frontend contributions using JavaScript, HTML, and CSS.
+Description: Maintained and enhanced an existing SaaS platform for healthcare practitioners, primarily focusing on backend development with PHP and MySQL, alongside frontend development using JavaScript, HTML, and CSS.
 
-Contributed to the development and improvement of application features, API endpoints, forms, and database interactions, including SQL query optimization. Worked with Git and participated in code reviews to maintain code quality and integrate changes into the existing application.
+Developed and improved application features, REST API endpoints, forms, and database interactions. Optimized SQL queries to improve performance and worked with Git and code reviews to ensure code quality and reliable integration of changes.
 
 Technologies: PHP, MySQL, JavaScript, HTML, CSS
 
