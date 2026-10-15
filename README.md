@@ -32,7 +32,7 @@ Repository: [Multi-Agent Traffic Simulation](https://github.com/ZenkoLespadon/Mu
 
 ### MDSL — Software Programmer Intern (2024)
 
-Description: ### MDSL — Software Developer Intern (2024)
+Description: MDSL — Software Developer Intern (2024)
 
 Description: Maintenance and enhancement of an existing SaaS platform for healthcare practitioners, primarily focused on backend development (PHP, MySQL), with additional frontend contributions using JavaScript, HTML, and CSS.
 
