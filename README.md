@@ -71,12 +71,19 @@ Repository: [Saber-Kingdoms](https://github.com/ZenkoLespadon/Saber-Kingdoms)
 During my academic journey, I completed several SAE projects (Situation d'Apprentissage et d'Évaluation - Learning and Assessment Situations). These projects allowed me to apply technical skills through practical academic projects, individually or in groups, across software development, databases, networking, artificial intelligence, and deployment.
 
 ### SAE 5.01 – 6.01 — Offline RAG Chatbot for La Poste (2024–2025)
-Description: Development of an offline RAG chatbot with LangChain, Transformers, ChromaDB, and Ollama, integrated into a React/Node.js web interface and deployed automatically on Ubuntu Server using Jenkins.
+Description: Designed and developed an offline Retrieval-Augmented Generation (RAG) chatbot for La Poste, enabling users to query internal documents using locally hosted AI models.
 
+Implemented a document retrieval and generation pipeline using LangChain, Transformers, ChromaDB, and Ollama. Integrated the system into a React/Node.js web interface and automated deployment on Ubuntu Server using Jenkins.
+
+Technologies: Python, LangChain, Transformers, ChromaDB, Ollama, React, Node.js, Jenkins, Ubuntu Server
 Repository: [RAGAdmin](https://github.com/ZenkoLespadon/RAGAdmin-Kamoulox)
 
 ### SAE 3.01 – 4.01 — TemporalIT Escape Game (2023–2024)
-Description: Design and development of an escape game based on the history of computing using Godot Engine and C#.
+Description: Designed and developed TemporalIT, an educational escape game exploring the history of computing, using C# and Godot Engine as part of a team project.
+
+Developed interactive gameplay features incorporating historical figures and inventions related to computing. Implemented unit tests using NUnit and contributed to the development of a cross-platform application for Windows and Linux.
+
+Technologies: C#, Godot Engine, NUnit, Git
 
 Repository: [TemporalIT](https://github.com/Anosy00/TemporalIT)
 
