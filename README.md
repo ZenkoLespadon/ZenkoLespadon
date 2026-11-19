@@ -21,7 +21,7 @@ Email: lefebvre.william82@gmail.com
 
 ## Professional Experience
 
-### University of Craiova — Software Programmer Intern (2025)
+### University of Craiova - Software Programmer Intern (2025)
 Description: Designed and developed a multi-agent urban traffic simulation in Python using Mesa, NetworkX, and real-world OpenStreetMap road networks.
 
 Implemented vehicle and pedestrian agents with different driving behaviors, traffic rules, collision detection, and simulation statistics. Built an interactive Streamlit interface to visualize traffic conditions, monitor agent movements, and control simulation execution.
@@ -50,7 +50,7 @@ Technologies: Java 21, Spring Boot, Kafka, Kafka Streams, Redis, PostgreSQL/Post
 
 Repository: [Kafka Real-Time Delivery Operations Platform](https://github.com/ZenkoLespadon/kafka-delivery-operations-platform)
 
-### TradingApp — Market Data & Trading Execution Platform
+### TradingApp | Market Data & Trading Execution Platform
 
 Description: Development of a Python application for real-time financial market data processing and trading strategy execution. The project focuses on software reliability, data consistency, failure handling, and automated validation, with persistent storage in PostgreSQL and integration with external market services.
 
@@ -70,7 +70,7 @@ Repository: [Saber-Kingdoms](https://github.com/ZenkoLespadon/Saber-Kingdoms)
 
 During my academic journey, I completed several SAE projects (Situation d'Apprentissage et d'Évaluation - Learning and Assessment Situations). These projects allowed me to apply technical skills through practical academic projects, individually or in groups, across software development, databases, networking, artificial intelligence, and deployment.
 
-### SAE 5.01 – 6.01 — Offline RAG Chatbot for La Poste (2024–2025)
+### SAE 5.01 – 6.01 | Offline RAG Chatbot for La Poste (2024–2025)
 Description: Designed and developed an offline Retrieval-Augmented Generation (RAG) chatbot for La Poste, enabling users to query internal documents using locally hosted AI models.
 
 Implemented a document retrieval and generation pipeline using LangChain, Transformers and ChromaDB. Integrated the system into a React/Node.js web interface and automated deployment on Ubuntu Server using Jenkins.
@@ -78,7 +78,7 @@ Implemented a document retrieval and generation pipeline using LangChain, Transf
 Technologies: Python, LangChain, Transformers, ChromaDB, React, Node.js, Jenkins, Ubuntu Server
 Repository: [RAGAdmin](https://github.com/ZenkoLespadon/RAGAdmin-Kamoulox)
 
-### SAE 3.01 – 4.01 — TemporalIT Escape Game (2023–2024)
+### SAE 3.01 – 4.01 | TemporalIT Escape Game (2023–2024)
 Description: Designed and developed TemporalIT, an educational escape game exploring the history of computing, using C# and Godot Engine as part of a team project.
 
 Developed interactive gameplay features incorporating historical figures and inventions related to computing. Implemented unit tests using NUnit and contributed to the development of a cross-platform application for Windows and Linux.
@@ -87,7 +87,7 @@ Technologies: C#, Godot Engine, NUnit, Git
 
 Repository: [TemporalIT](https://github.com/Anosy00/TemporalIT)
 
-### SAE 3.02 – 4.02 — Secure Company Network Infrastructure (2023–2024)
+### SAE 3.02 – 4.02 | Secure Company Network Infrastructure (2023–2024)
 Description: Implementation of a complex company network using Kathara, with infrastructure security configured through iptables.
 
 Repository: [Kathara infrastructure](https://github.com/Anosy00/SAER3.01B)
