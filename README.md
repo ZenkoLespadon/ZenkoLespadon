@@ -73,9 +73,9 @@ During my academic journey, I completed several SAE projects (Situation d'Appren
 ### SAE 5.01 – 6.01 — Offline RAG Chatbot for La Poste (2024–2025)
 Description: Designed and developed an offline Retrieval-Augmented Generation (RAG) chatbot for La Poste, enabling users to query internal documents using locally hosted AI models.
 
-Implemented a document retrieval and generation pipeline using LangChain, Transformers, ChromaDB, and Ollama. Integrated the system into a React/Node.js web interface and automated deployment on Ubuntu Server using Jenkins.
+Implemented a document retrieval and generation pipeline using LangChain, Transformers and ChromaDB. Integrated the system into a React/Node.js web interface and automated deployment on Ubuntu Server using Jenkins.
 
-Technologies: Python, LangChain, Transformers, ChromaDB, Ollama, React, Node.js, Jenkins, Ubuntu Server
+Technologies: Python, LangChain, Transformers, ChromaDB, React, Node.js, Jenkins, Ubuntu Server
 Repository: [RAGAdmin](https://github.com/ZenkoLespadon/RAGAdmin-Kamoulox)
 
 ### SAE 3.01 – 4.01 — TemporalIT Escape Game (2023–2024)
